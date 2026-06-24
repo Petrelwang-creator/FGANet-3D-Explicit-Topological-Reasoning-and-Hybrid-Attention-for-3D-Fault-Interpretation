@@ -1,0 +1,2 @@
+# FGANet-3D-Explicit-Topological-Reasoning-and-Hybrid-Attention-for-3D-Fault-Interpretation
+To overcome the connectivity disruptions and topological distortions of traditional 3D CNNs when processing noisy and highly imbalanced seismic data,here  proposes FGANet3D—a hybrid deep learning framework integrating high-frequency CNN convolutions, hybrid self-attention, and a multi-objective physical constraint joint loss function.

@@ -1,0 +1,22 @@
+D:\test1\test26\data\output_pred\Raw-data-EPS1_pred.dat
+请输入模板 .sgy 文件路径: D:\test1\test26\data\Raw-data-EPS1.sgy
+请输入输出 .sgy 文件路径: D:\test1\test26\data\output_pred\Raw-data-EPS1_y_pred.sgy
+[INFO] Loading .dat file: D:\test1\test26\data\output_pred\Raw-data-EPS1_pred.dat
+[INPUT REQUIRED] 请输入数据体的三维尺寸：
+Depth (Z) 维度大小: 1250
+Height (Y) 维度大小: 500
+
+
+template_sgy_path = r"D:/test1/test26/data/output_pred/Raw-data-EPS1_pred.dat"     # SMI 导出的模板 SGY
+dat_file_path = r"D:/test1/test26/data/Raw-data-EPS1.sgy"  # 要写入的数据
+output_sgy_path = r"D:/test1/test26/data/output_pred/Raw-data-EPS1_y_pred.sgy"  # 输出路径
+
+
+ dat_file = r"D:/test1/test26/data/output_pred/Raw-data-EPS1_pred.dat"   # 要写入的数据
+    template_sgy_path = r"D:/test1/test26/data/Raw-data-EPS1.sgy"  # 要写入的数据
+    output_sgy_path = r"D:/test1/test26/data/output_pred/Raw-data-EPS1_y_pred.sgy"  # 输出路径
+
+
+dat_file = r"D:/test1/test26/data/output_pred/Raw-data-EPS1_pred.dat"  # 要写入的数据
+    template_sgy_path = r"D:/test1/test26/data/Raw-data-EPS1.sgy"  # 要写入的数据
+    output_sgy_path = r"D:/test1/test26/data/output_pred/Raw-data-EPS1_y1_pred.sgy"  # 输出路径
